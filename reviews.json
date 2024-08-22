@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Excellent professor! She explains concepts very clearly and is always available for help."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Great lectures, but sometimes moves too quickly through material."
+      },
+      {
+        "professor": "Dr. Anna Lee",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Average experience. The lectures were fine, but the exams were much harder than expected."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "History",
+        "stars": 2,
+        "review": "Not very engaging. The lectures were dry and difficult to follow."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Amazing professor! She made the subject interesting and was always supportive."
+      },
+      {
+        "professor": "Dr. Michael Davis",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Good professor, but assignments were a bit too challenging."
+      },
+      {
+        "professor": "Dr. Linda Williams",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Very thought-provoking lectures. I really enjoyed this class."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Decent professor, but not very approachable outside of class."
+      },
+      {
+        "professor": "Dr. Patricia Martinez",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Incredible professor! She made complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. William Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Good course content, but the lectures could be more engaging."
+      },
+      {
+        "professor": "Dr. Elizabeth Rodriguez",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Not a bad professor, but I found the course material somewhat boring."
+      },
+      {
+        "professor": "Dr. Thomas Anderson",
+        "subject": "Engineering",
+        "stars": 5,
+        "review": "Fantastic professor! The projects were challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Laura White",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Enjoyable class, but sometimes the reading load was too heavy."
+      },
+      {
+        "professor": "Dr. Daniel Harris",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "One of the best professors I've had. The lectures were fascinating."
+      },
+      {
+        "professor": "Dr. Jessica Thompson",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "The lectures were okay, but the exams were tricky."
+      },
+      {
+        "professor": "Dr. Richard Lee",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Struggled to keep up with the pace of the course. Not very approachable."
+      },
+      {
+        "professor": "Dr. Susan Miller",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Fantastic course! The professor was very knowledgeable and passionate."
+      },
+      {
+        "professor": "Dr. Steven Moore",
+        "subject": "Business",
+        "stars": 4,
+        "review": "Good professor, but the grading was tougher than expected."
+      },
+      {
+        "professor": "Dr. Karen Taylor",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Absolutely loved this class! The professor was inspiring."
+      },
+      {
+        "professor": "Dr. Charles Adams",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "The lectures were okay, but I had a hard time with the assignments."
+      }
+    ]
+  }
+  
